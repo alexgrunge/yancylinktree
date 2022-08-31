@@ -1,0 +1,22 @@
+.content-icons{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+  
+    width: 100%;
+    height: 50px;
+    
+    
+}
+
+.content-icons a{
+    display: flex;
+}
+
+.content-icons img{
+    width: 45px;
+    margin: 20px;
+    
+}
